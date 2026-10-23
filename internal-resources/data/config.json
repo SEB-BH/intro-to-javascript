@@ -48,30 +48,6 @@
           "dirName": "template-literals",
           "type": "Content",
           "videoUrl": ""
-        },
-        {
-          "friendlyName": "History of JavaScript",
-          "dirName": "history-of-js",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Dynamic vs Static Typed Languages",
-          "dirName": "dynamic-vs-static-typed-languages",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Weak vs Strong Typed Languages",
-          "dirName": "weak-vs-strong-typed-languages",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Implicit and Explicit Type Conversion",
-          "dirName": "implicit-and-explicit-type-conversion",
-          "type": "Content",
-          "videoUrl": ""
         }
       ],
       "isHeaderShown": true,
@@ -134,30 +110,6 @@
           "friendlyName": "Template Literals",
           "dirName": "template-literals",
           "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "History of JavaScript",
-          "dirName": "history-of-js",
-          "type": "Level Up content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Dynamic vs Static Typed Languages",
-          "dirName": "dynamic-vs-static-typed-languages",
-          "type": "Level Up content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Weak vs Strong Typed Languages",
-          "dirName": "weak-vs-strong-typed-languages",
-          "type": "Level Up content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Implicit and Explicit Type Conversion",
-          "dirName": "implicit-and-explicit-type-conversion",
-          "type": "Level Up content",
           "videoUrl": ""
         }
       ],
