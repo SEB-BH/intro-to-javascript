@@ -58,3 +58,22 @@ console.log('Hello, world!');
 ```
 
 Printing to the console, or console logging, is one of the most powerful tools we have for understanding and debugging our code. Trying things out and console logging often is one of the best ways to learn JavaScript.
+
+## Adding a `console.log` snippet (optional)
+
+We use `console.log` A LOT in JavaScript.  You can create your own snippet in VS Code to make typing it shorter:
+
+1. Press `Ctrl + Shift + P` (Windows) or `Cmd + Shift + P` (Mac).
+2. Search for Snippets: Configure Snippets.
+3. Choose `javascript.json`.
+4. Add:
+
+```
+"Console Log": {
+  "prefix": "clg",
+  "body": "console.log($1)",
+  "description": "Quick console.log"
+}
+```
+
+Now `clg` expands to `console.log()` with your cursor inside the parentheses.
