@@ -28,11 +28,10 @@ With the file created, open the contents of the directory in VS Code:
 code .
 ```
 
-> 🧠 If the terminal says `node: command not found` or `node is not recognized`, ask an instructor to help you check your Node.js installation.
-
-
 Use node to execute the `app.js` file directly by using this command in your terminal:
 
 ```bash
 node app.js
 ```
+
+> 🧠 If the terminal says `node: command not found` or `node is not recognized`, ask an instructor to help you check your Node.js installation.
