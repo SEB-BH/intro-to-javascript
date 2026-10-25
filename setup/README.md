@@ -34,5 +34,3 @@ Use node to execute the `app.js` file directly by using this command in your ter
 ```bash
 node app.js
 ```
-
-While either method is acceptable, you should use the same method as your instructor for simplicity.
