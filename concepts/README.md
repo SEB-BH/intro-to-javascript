@@ -13,7 +13,8 @@ JavaScript is the only programming language used directly in web browsers. This 
 
 These attributes have all fueled JavaScript's explosive growth and sustained popularity through time. The following graph shows the top languages on GitHub since 2014, where JavaScript has steadily held the top position. When you visit a website in your browser, it almost always uses JavaScript in some form or fashion.
 
-![Graph of the most popular languages on GitHub over time](./assets/language-pop.png)
+<img width="501" height="805" alt="Screenshot 2026-10-25 at 11 54 59 AM" src="https://github.com/user-attachments/assets/10203ca8-8c55-43f8-957f-9e18ca09b43b" />
+
 
 ## Why use JavaScript?
 
